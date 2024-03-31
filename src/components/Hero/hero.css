@@ -1,0 +1,13 @@
+.Hero {
+  background-image: url("../../Assets/HeroSection-bg-image.jpg");
+  background-size: cover;
+  object-fit: cover;
+  display: flex;
+  flex-direction: column;
+  height: 950px;
+}
+
+.Hero h1 {
+  font-size: 64px;
+  margin: 40px 0 300px;
+}

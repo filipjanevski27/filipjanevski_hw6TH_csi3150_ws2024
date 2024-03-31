@@ -1,0 +1,26 @@
+.TravelBlog {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 800px;
+}
+
+.TravelBlog h3 {
+  font-size: 36px;
+}
+
+.TravelBlog .imgs {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 50px;
+}
+
+.TravelBlog .imgs img {
+  height: 400px;
+  width: 400px;
+  object-fit: cover;
+}
+
+.TravelBlog p {
+  font-size: 20px;
+}
